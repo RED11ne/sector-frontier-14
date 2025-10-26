@@ -2133,3 +2133,12 @@ Entries:
   id: 157
   time: '2025-10-25T15:08:28.0000000+00:00'
   url: https://github.com/Lua-Frontier/sector-frontier-14/pull/319
+- author: LeptonComm
+  changes:
+    - type: Fix
+      message: >-
+        Залил нормальный сейв МЦ. В прошлый раз залился старый, недоделанный.
+        Прошу прощения у игроков МК, что испытали с ним проблемы
+  id: 158
+  time: '2025-10-26T07:07:56.0000000+00:00'
+  url: https://github.com/Lua-Frontier/sector-frontier-14/pull/322
