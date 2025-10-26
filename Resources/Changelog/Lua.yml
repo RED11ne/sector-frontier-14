@@ -2142,3 +2142,30 @@ Entries:
   id: 158
   time: '2025-10-26T07:07:56.0000000+00:00'
   url: https://github.com/Lua-Frontier/sector-frontier-14/pull/322
+- author: HacksLua
+  changes:
+    - type: Add
+      message: События теперь появляются в любом секторе
+    - type: Tweak
+      message: Увеличен разрыв между генерациями звёзд
+    - type: Fix
+      message: Исправлено перемещение на фронтир
+    - type: Fix
+      message: Исправлена разборка тёмного мостика
+    - type: Fix
+      message: Исправлена работа ваучеров
+    - type: Tweak
+      message: Кулдан БСС по сектору и по звёздам теперь единая система
+    - type: Tweak
+      message: Через голопады теперь можно звонить везде
+    - type: Tweak
+      message: Увеличена дистанция кабелей до 6 тайлов вместо 3
+    - type: Tweak
+      message: Уменьшена дистанция основных секторов до фронтира
+    - type: Add
+      message: Добавлены прямые гиперлинии от основных секторов к ПА
+    - type: Add
+      message: Добавлены диски координат в аплинки фракций
+  id: 159
+  time: '2025-10-26T11:30:57.0000000+00:00'
+  url: https://github.com/Lua-Frontier/sector-frontier-14/pull/324
